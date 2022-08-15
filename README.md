@@ -1,0 +1,2 @@
+# CLASS
+class object concept
